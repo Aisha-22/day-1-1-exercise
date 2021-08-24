@@ -9,6 +9,9 @@ print("print('what to print')")
 # String Manipulation and Code Intelligence
 print("Hello world!\nHello Aisha\nHello Princess")
 
+# String concatenation
+print("Hello" + " " + "Aisha")
+
 
 
 
